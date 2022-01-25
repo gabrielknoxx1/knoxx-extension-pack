@@ -1,0 +1,47 @@
+{
+  "name": "knoxx-extension-pack",
+  "displayName": "Knoxx Extension Pack",
+  "publisher": "Knoxx",
+  "description": "my extension pack",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "activecove.marquee",
+    "adpyke.codesnap",
+    "anseki.vscode-color",
+    "apollographql.vscode-apollo",
+    "ChakrounAnas.turbo-console-log",
+    "christian-kohler.path-intellisense",
+    "clinyong.vscode-css-modules",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "dbaeumer.vscode-eslint",
+    "dracula-theme.theme-dracula",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "GraphQL.vscode-graphql",
+    "Gruntfuggly.todo-tree",
+    "jpoissonnier.vscode-styled-components",
+    "mohsen1.prettify-json",
+    "MS-CEINTL.vscode-language-pack-pt-BR",
+    "ms-vsliveshare.vsliveshare",
+    "naumovs.color-highlight",
+    "neptunedesign.vs-slug",
+    "PKief.material-icon-theme",
+    "rangav.vscode-thunder-client",
+    "ricardo-emerson.create-react-tsx-component",
+    "rocketseat.theme-omni",
+    "shardulm94.trailing-spaces",
+    "shd101wyy.markdown-preview-enhanced",
+    "SimonSiefke.svg-preview",
+    "wayou.vscode-todo-highlight"
+  ]
+}
